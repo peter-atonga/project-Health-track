@@ -34,6 +34,16 @@
       "id": "bc0d",
       "username": "peter",
       "password": "1234"
+    },
+    {
+      "id": "eb91",
+      "username": "petre",
+      "password": "1234"
+    },
+    {
+      "id": "ac57",
+      "username": "bla",
+      "password": "bla"
     }
   ]
 }
