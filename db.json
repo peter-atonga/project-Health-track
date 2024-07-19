@@ -1,0 +1,49 @@
+{
+    "users": [
+      {
+        "id": "93f0",
+        "username": "peter",
+        "password": "peter"
+      },
+      {
+        "id": "f196",
+        "username": "abbot",
+        "password": "abbot"
+      },
+      {
+        "id": "68d9",
+        "username": "george",
+        "password": "12345"
+      },
+      {
+        "id": "abe3",
+        "username": "george",
+        "password": "1234"
+      },
+      {
+        "id": "32b7",
+        "username": "ochot odong",
+        "password": "12345"
+      },
+      {
+        "id": "efde",
+        "username": "peter",
+        "password": "1234"
+      },
+      {
+        "id": "bc0d",
+        "username": "peter",
+        "password": "1234"
+      },
+      {
+        "id": "eb91",
+        "username": "petre",
+        "password": "1234"
+      },
+      {
+        "id": "ac57",
+        "username": "bla",
+        "password": "bla"
+      }
+    ]
+  }
