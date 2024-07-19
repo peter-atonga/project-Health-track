@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const trackingDiv = document.getElementById('tracking');
     const loginRegisterDiv = document.getElementById('login-register');
 
-const dbUrl = ' https://my-json-server.typicode.com/peter-atonga/jsondb-test/users';
+const dbUrl = 'https://my-json-server.typicode.com/peter-atonga/jsondb-test/users';
 
 // Register user
 registerForm.addEventListener('submit', (e) => {
