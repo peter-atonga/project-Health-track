@@ -24,6 +24,8 @@ HealthTrack is a health tracking application that allows users to register, log 
 - CSS
 - JavaScript
 - JSON Server
+https://www.loom.com/share/724d1feee70b411cb8ffbdf2889e1723?sid=b79c2d92-21d8-4920-971d-a3f4e3b62742
+
 
 ## License
 This project is licensed under the MIT License.
